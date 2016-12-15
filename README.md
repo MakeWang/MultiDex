@@ -29,7 +29,7 @@ defaultConfig {
         multiDexEnabled true
     }
 ```
-2、在Application中配置
+2、在Application中配置 
 ```java
 public class MyApplication extends Application {
 
