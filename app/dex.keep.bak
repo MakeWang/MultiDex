@@ -1,0 +1,4 @@
+com.dex.main/MainActivity.class
+com.dex.main/MyApplication.class
+
+dx --dex --output=D:\Users\ricky\Desktop\dex\classes2.dex D:\Users\ricky\Desktop\dex
