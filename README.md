@@ -247,3 +247,10 @@ public class MainActivity extends Activity {
 
 ```
 
+# .dex打包</br>
+1、在MultiDexDemo\app\build\intermediates\classes\debug路劲下面找到修改的.classs文件。</br>
+2、将AndroidSDK这路劲配置环境变量AndroidSDK\android-sdk_r24.4.1-windows\android-sdk-windows\build-tools\23.0.1中。</br>
+3、在1这个目录中打开cmd命令窗口。</br>
+   命令：dx --dex --output=C:\Users\tgkj\Desktop\test\classes2.dex C:\Users\tgkj\Desktop\test</br>
+   C:\Users\tgkj\Desktop\test\classes2.dex  打包的生成的文件路劲及文件。</br>
+   C:\Users\tgkj\Desktop\test    打包的路劲，包名一定要全。</br>
