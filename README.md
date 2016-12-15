@@ -1,7 +1,4 @@
-# MultiDex</br
-
-
->
+# MultiDex</br>
 热修复效果图，首先第一次点击点击计算是，程序出异常，我再代码中是给的10/0，我修复好了代码之后，打包dex，在不从新的安装应用程序时修复了此代码。</br>
 ![](https://github.com/MakeWang/MultiDex/blob/master/images/acss.gif)
 
